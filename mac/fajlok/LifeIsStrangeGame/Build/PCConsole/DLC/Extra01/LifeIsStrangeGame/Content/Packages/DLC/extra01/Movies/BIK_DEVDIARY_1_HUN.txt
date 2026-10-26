@@ -1,0 +1,101 @@
+﻿01000 0
+
+11044	13032	DialogFont	It was really great to see so many pieces of fan art,
+13092	17032	DialogFont	so many letters, so much fan fiction.
+17062	19064	DialogFont	Cosplays.
+19084	23004	DialogFont	The reactions were fantastic, way beyond our craziest expectations.
+23024	26000	DialogFont	It was impossible to expect a huge community like this
+26020	29004	DialogFont	with such passionate fans, it's crazy.
+29024	31084	DialogFont	Thank you. You. Yeah!
+32004	33974	DialogFont	We started the project by making the game we wanted
+34094	35932	DialogFont	to make for ourselves, but at the end, it's really making
+36052	40088	DialogFont	a game for the players because that's what's important.
+46008	48006	DialogFont	So welcome to the Dev commentary of
+48016	49046	DialogFont	Life Is Strange.
+49166	52084	DialogFont	We're really happy to be here to talk about the game.
+53004	56058	DialogFont	Thank you for watching. I'm Raoul Barbet, one of the
+56078	58042	DialogFont	Co-Game Directors of the game.
+58062	61092	DialogFont	And I'm Michel Koch, the other Co-Game Director of the game.
+61692	65020	DialogFont	We are two Game Directors working on one project;
+65040	69048	DialogFont	it's really interesting to work that way.
+69068	73020	DialogFont	It can be hard sometimes, but I think it's a really interesting
+73040	76034	DialogFont	creative process because we can challenge each other on
+76054	80010	DialogFont	a lot of aspects and always find a better solution for what
+80030	81040	DialogFont	is best for the game.
+81060	85060	DialogFont	If only Michel or Raoul were directing the game, the game
+85080	89024	DialogFont	would have been really different. They both know how
+89044	94026	DialogFont	to make a game. They're not stuck in their field of expertise.
+94046	96736	DialogFont	They know a lot of things about each department and they
+96756	98362	DialogFont	have this direct contact with the teams.
+98562	103040	DialogFont	I'm more from the audio-visual and movie scenes, so I was
+103060	107046	DialogFont	in charge of all the cameras with the camera team.
+107066	110036	DialogFont	I worked a lot with the sound-design team also, with the music.
+110056	115006	DialogFont	And myself, since I'm from an illustration background, my
+115026	120008	DialogFont	specialities were more on the art-direction, and later, for
+120028	123008	DialogFont	this game, I started to work way more with the
+123028	126048	DialogFont	narrative team and the voice-recording sessions.
+127000	132038	DialogFont	It was cool because they have a similar vision for the game.
+132058	135076	DialogFont	So we didn't have a "yes" from one and a "no" from the other.
+135096	138068	DialogFont	Actually, Michel and Raoul are in the game when you think
+138088	142016	DialogFont	about it. So, they're two game directors, so we have
+142036	147016	DialogFont	a contraction which is Michaoul, but if you put it the
+147036	151004	DialogFont	other way round, it's Raoul and Michel, so it's Rachel.
+151024	153004	DialogFont	And I'm pretty sure they did it on purpose.
+153024	157044	DialogFont	The idea behind the game was to - both of us worked on
+157064	161038	DialogFont	Remember Me and there were some sequences in this
+161058	166002	DialogFont	game called the Memory Remixes and one of the founders
+166022	171012	DialogFont	Herve Bonin asked a small, core team to think about
+171032	174699	DialogFont	a game with this kind of mechanism. Very quickly we
+174719	176890	DialogFont	came up with an episodic adventure game, because we
+176910	179296	DialogFont	really wanted to do something like that.
+179516	182048	DialogFont	There are really a lot of good ways, new ways,
+182068	184032	DialogFont	interactive ways to tell stories.
+184052	186032	DialogFont	On an episodic format, you really have to make a lot
+186052	190036	DialogFont	of choices for Episode 1, because you won't be able to
+190056	194004	DialogFont	change it after. A lot of assets have to be there in Episode 1.
+194024	197030	DialogFont	So the menu is one of those assets.
+197050	199040	DialogFont	It was interesting because there were a lot of variations,
+199060	202004	DialogFont	we did a lot of tries of what we wanted to show in this
+202024	207040	DialogFont	menu. The idea was to basically show the most important
+207060	210032	DialogFont	locations of the game. So we can see the Blackwell
+210052	213030	DialogFont	Academy on the top-right, we can see the lighthouse,
+213050	216002	DialogFont	we can see the town of Arcadia Bay. We are really
+216022	219032	DialogFont	trying to give a sense of location and just showing
+219052	221078	DialogFont	the game world with the menu.
+221098	225072	DialogFont	We really wanted to make the player feel that all the
+225092	227466	DialogFont	areas are connected and the menu is a great way to do that.
+227486	231384	DialogFont	One of the main important things for us, for the game, was
+231604	234084	DialogFont	to have a peaceful game, with this sense that you can take
+234384	237004	DialogFont	your time and we wanted to reflect that from the menu.
+237024	240026	DialogFont	So we worked on those small wind-effects and the leaves
+240046	243060	DialogFont	that are going around and the nice and soft music.
+243080	247000	DialogFont	It was just, when you start the game, you should feel quite at
+247020	251018	DialogFont	peace and comfortable. And even when the menu
+251038	254084	DialogFont	evolves in each episode, there are some small details that
+254304	257092	DialogFont	are changing like in the menu for Episode 4, you have the
+257312	261076	DialogFont	beached whales. These kind of details we wanted to add
+261096	264048	DialogFont	with the variations of the menu. The game takes place in
+264068	267008	DialogFont	Oregon, in the Pacific Northwest in the United States.
+267028	270056	DialogFont	When I went back there on vacation, I have seen a lot of
+270076	274064	DialogFont	places that really look like what we did in the game.
+274084	277060	DialogFont	It was a really big job of references to be sure that
+277080	281050	DialogFont	everything was correct, but it's also something that is
+281070	284020	DialogFont	really exciting about making a game, that you have to
+284040	287028	DialogFont	look at everything to reproduce reality and with of course
+287048	292020	DialogFont	our own lens and stylizations, but we really wanted this
+292040	296012	DialogFont	to feel like being in Oregon. Sometimes people ask us
+296032	298012	DialogFont	if we choose to have the game in the United States for
+298032	301068	DialogFont	marketing, for selling the game. We knew that we were
+301088	305072	DialogFont	fans of TV shows like Twin Peaks or X-Files. They have
+305092	307096	DialogFont	those trees and the Pacific Northwest feeling.
+308016	311080	DialogFont	I think they're a great example of a small community
+312000	316004	DialogFont	thinking that everybody knows each other and everybody
+316024	319040	DialogFont	is happy, but when you put something inside this
+319060	323052	DialogFont	community, it could be something supernatural, you
+323072	325064	DialogFont	discover a lot more.
+325084	329024	DialogFont	And it's really a way to shift things around and to bring
+329044	334056	DialogFont	chaos and interesting variations on the characters. In the
+334076	337032	DialogFont	end, Life is Strange is really a game and a story about the
+337052	340052	DialogFont	characters, about their lives. It's not a story about Sci-Fi
+340072	346056	DialogFont	elements. The Sci-Fi elements are just here to make things
+346076	350028	DialogFont	interesting.

@@ -1,0 +1,102 @@
+﻿01000 0
+
+0080	6052	DialogFont	OK, so the objective of this scene was to go into the bathroom.
+6072	13048	DialogFont	I think you can hear the great song 'walk'. Sebastien the Audio Lead
+13068	17510	DialogFont	has worked a lot on these kind of effects when you take
+17620	24060	DialogFont	out your earplugs, you can hear more of the ambience.
+24080	30048	DialogFont	This kind of art is done by our main Concept Artist. We've got three
+30068	35044	DialogFont	or four Concept Artists working on the game. With Edouard,
+35064	38044	DialogFont	we've made a lot of art work, he was the main Concept Artist.
+38064	41016	DialogFont	So basically, in the beginning, we do a lot of documentation,
+41036	44596	DialogFont	we do a lot of research. From all those pictures we can
+44616	48004	DialogFont	find on the internet, every room, every character needs to
+48024	52052	DialogFont	tell you a story: who they are, what they do.
+52072	57032	DialogFont	And just for, following the scene even for the mood, when
+57052	60012	DialogFont	it's still the rhythm of the game so we wanted this scene in
+60032	64028	DialogFont	the bathroom to have a really cold and harsh more - contrasty lighting
+64048	71024	DialogFont	to be different to the soft and warm lighting from the
+71044	72072	DialogFont	art class before.
+72092	77016	DialogFont	I think in this scene here is one of the mistakes we've done
+77036	81088	DialogFont	with the game. For example, when Max is tearing apart the
+81208	85052	DialogFont	polaroid. In fact, I don't know if you have tried to tear apart
+85072	87052	DialogFont	a polaroid, but it's quite impossible.
+87072	91084	DialogFont	Yeah, you can't. We tried it, but it's too strong, it's plastic
+91204	94004	DialogFont	and it's impossible to tear it actually.
+94024	98048	DialogFont	But of course, there is a lot of symbolism behind this, so we
+98068	104000	DialogFont	decided to keep it, even if it's non-realistic - maybe it's a bad
+104020	109016	DialogFont	polaroid quality so we can do it. You can see the butterfly
+109036	112020	DialogFont	coming in from the window, there's a lot of symbolism behind
+112040	117072	DialogFont	this: A butterfly of course with all the butterfly effect theme.
+117092	119048	DialogFont	The fact that Chloe has got -
+119068	122068	DialogFont	Some butterflies on her tattoo and the color of her hair is
+122088	124052	DialogFont	based on the color of the butterfly.
+124072	126092	DialogFont	Yeah, this is something we really wanted to do. Here the blue
+126112	129906	DialogFont	butterfly is really, really important and of course at the end of
+130026	131028	DialogFont	the game, it's much more important.
+131048	134064	DialogFont	One of the fans favorites and of course a character we really
+134084	139004	DialogFont	love, Chloe. She's one of the most important characters
+139024	142032	DialogFont	because, at the end the choice is about her. It was really
+142052	145032	DialogFont	important to create this character the best way possible so the
+145052	149064	DialogFont	player would learn to care more and more about her, but we
+149084	154016	DialogFont	really wanted her to be not that nice at the beginning, so when
+154036	158044	DialogFont	she's evolving during the different episodes and she's getting
+158064	162020	DialogFont	nicer to Max, people would care even more about her, because
+162040	166008	DialogFont	she has changed and she likes the fact that she's changed. If she
+166028	169020	DialogFont	were the nicest person from the beginning, it wouldn't be,
+169040	172052	DialogFont	I don't think, as effective with her going forward and changing
+172072	173596	DialogFont	towards Max.
+174016	179892	DialogFont	Sometimes, some players hated Chloe from the first episode and
+180012	185040	DialogFont	I think it's not a bad thing because you can dislike a lot of things
+185060	189032	DialogFont	about her personality and after in Episode 3 and of course in the
+189052	195036	DialogFont	beginning of Episode 4, there was really something more to this
+195056	201044	DialogFont	character. I think it's like having a friend in real-life, there are
+201064	204076	DialogFont	always some things that you don't like. The relationship between
+204096	207040	DialogFont	Max and Chloe let us talk about that and I think it's really
+207060	212044	DialogFont	interesting to see how the player will learn more and more to
+212064	214020	DialogFont	like Chloe.
+214040	218016	DialogFont	I think it was one of the biggest challenges of the writing process
+218036	222068	DialogFont	because we have five episodes, we have a limited amount of time
+222088	226060	DialogFont	and we need to find the good beats and the good pacing to
+226080	228072	DialogFont	make those characters evolve.
+228092	234084	DialogFont	It's a really intimate story and it's mostly just centered on
+234104	238084	DialogFont	emotional moments. All of the major choices that you make in
+238204	240076	DialogFont	the game are emotional. The heart of it is the relationship
+240096	244008	DialogFont	between Max and Chloe. It gets really dark; things get really
+244028	246028	DialogFont	hard for Chloe and really emotional.
+246048	251060	DialogFont	In the game, one of our goals was also to be able to talk about
+251080	257000	DialogFont	real-life issues, about some social themes and difficult themes
+257020	262040	DialogFont	that can be experience in real-life. I mean, it's different to other
+262060	266048	DialogFont	games where there are bigger issues like situations of life or
+266068	271000	DialogFont	death or war, or stuff like that and in this game we wanted to
+271020	275004	DialogFont	really focus on more human issues, on a smaller level.
+275044	279892	DialogFont	The mood of the game and the themes of the game, it's the
+279912	284020	DialogFont	themes that we tackle in the game are not something that you
+284040	289048	DialogFont	see often in other games. We tried to be mature about it, we
+289068	292020	DialogFont	tried not to force it onto players and we tried not to be too
+292040	293516	DialogFont	brutal about it.
+293676	297880	DialogFont	We have issue like domestic violence, family issues
+298000	300028	DialogFont	We talk about drugs and alcoholism.
+300048	301836	DialogFont	Unemployment. Depression.
+302056	305888	DialogFont	It's part of reality and it was really important for
+306008	311008	DialogFont	us not to avoid that and I think that video games are a great
+311028	314012	DialogFont	media to talk about that because, as a player, you will be
+314032	319052	DialogFont	involved maybe more than just looking at a movie or reading
+319072	323028	DialogFont	a book, you will really be a part of and an actor in this experience.
+323048	326576	DialogFont	We were not sure that Square Enix, the publisher, would
+326596	331008	DialogFont	approve all the themes, the intense scenes we have and how
+331028	334028	DialogFont	we deal with them. Really early in the discussions, we were
+334048	338024	DialogFont	relieved to see that they didn't want to change anything, they
+338044	341032	DialogFont	just wanted to make sure that we dealt properly with those
+341052	346036	DialogFont	scenes and themes and this is exactly what our intentions were.
+350056	354888	DialogFont	This is again a key-scene for Episode 1; it's the first time you
+355008	358884	DialogFont	see Nathan and Chloe. The first scene with a character is really
+359004	363020	DialogFont	really important. You've got a lot of information to give to the
+363040	363892	DialogFont	player.
+364012	369048	DialogFont	And we needed to show that Nathan was quite a troubled child.
+369068	372880	DialogFont	A teenager I mean. So this is him talking to himself at the
+373000	376012	DialogFont	beginning. We had to fine tune it, to find the good words to
+376032	378576	DialogFont	use. Then we see Chloe for the first time, we have to show
+378596	383052	DialogFont	what her character is like. She's direct and a bit pushy to
+383072	387048	DialogFont	Nathan. We still need to understand what is happening, so
+387068	390528	DialogFont	they are talking about money, about drugs. We had to find the
+390548	394848	DialogFont	right hints to give, to explain things so as not to lose the player.

@@ -1,0 +1,104 @@
+﻿01000 0
+
+0000	1952	DialogFont	Oh, so let's play the game.
+2072	6048	DialogFont	Yeah! Let's play Life Is Strange. So this is the very beginning
+6168	11016	DialogFont	of the game. I think this is one of the most difficult
+11136	14860	DialogFont	sequences at the beginning of the production because
+14980	18304	DialogFont	this is the first time the player will see what the game looks
+18424	21984	DialogFont	like and will be inside the story. So, there were a lot of
+22004	24556	DialogFont	discussions about this scene and a lot of discussion about the
+24776	29520	DialogFont	shots; how we were going to present the Max character,
+29740	32768	DialogFont	it's important as this is a videogame for the player to know
+32888	37020	DialogFont	where they have to go and the objective of each scene.
+37140	40552	DialogFont	This scene is a link to the end of the game of course and it's also
+40672	45012	DialogFont	to close the loop and begin with this scene and when you
+45132	46896	DialogFont	know in the end of the game, it was something we really
+46916	51064	DialogFont	wanted to have, so we can see all the effects and we've got
+51184	54008	DialogFont	one effects artist who is very talented, Thomas,
+54128	56532	DialogFont	here you can see a lot of his work.
+56652	59076	DialogFont	I love the tornado. All the particles, the tornado.
+59196	61020	DialogFont	We took a lot of time to work on this tornado because,
+61140	64076	DialogFont	when you're working on an episodic game, it's important to
+64196	67472	DialogFont	still hook the player from Episode 1. So that's the kind of
+67592	70884	DialogFont	discussions we had about rhythm, when should we put
+70904	73568	DialogFont	something that has a bit more impact and that feels like
+73688	76520	DialogFont	something that shows the player something bigger,
+76640	79084	DialogFont	so this introduction was a bit like that. We wanted
+79104	83076	DialogFont	in Life Is Strange for the player to always know what Max is
+83196	85540	DialogFont	knowing and to just be with her. At this moment, Max doesn't
+85660	89092	DialogFont	know where she is, and the player doesn't know it either.
+89112	91052	DialogFont	Whoa! No!
+92172	96032	DialogFont	We're back to the high school, which is one of the most
+96152	99044	DialogFont	important settings in the game, of course the high school
+99164	102584	DialogFont	setting and the Blackwell Academy. High school is something
+102604	105056	DialogFont	where the player will feel comfortable because they know it,
+105176	108572	DialogFont	but the transition from the cliff to there is the twist of having
+108692	111032	DialogFont	something really different. And that should, we hope, make
+111152	114044	DialogFont	the player say "oh". It's not just a teen story, there's more to it.
+114164	116036	DialogFont	And then of course, we can go beyond that and change it and
+116156	120056	DialogFont	twist it and change the characters, but it was an interesting
+120176	123048	DialogFont	starting point creatively.
+123168	126028	DialogFont	This kind of introduction is really important
+126148	130504	DialogFont	because in one sequence, with only a few shots,
+130624	132540	DialogFont	you have to discover all the different characters, the main
+132660	136532	DialogFont	ones and we will of course see Jefferson, Kate and Victoria.
+136652	140552	DialogFont	It was quite hard to decide between not showing too much,
+140672	145536	DialogFont	to not break the idea of the game, to not be too big compared
+145656	150036	DialogFont	to what the game would be after. There are a lot of themes, a
+150156	154064	DialogFont	lot of big ideas in the game and of course photography is one
+154184	158060	DialogFont	of them, because photography is still a way to look back to
+158180	161052	DialogFont	the past. It's linked to the theme of rewind and time-
+161172	164596	DialogFont	manipulation and nostalgia and that's one of the reasons Max
+164616	167016	DialogFont	came back to Arcadia bay, to attend this photography class.
+167136	171224	DialogFont	I think for the player to be, like Max, back in this town, when
+171344	176064	DialogFont	she doesn't know everyone, but you've got to respect the
+176184	180240	DialogFont	schedule, it's really, as a player, something great to discover.
+180360	184556	DialogFont	Also, the lighting was really important in this scene, to break
+184676	191228	DialogFont	the cliff ambience with this sunny atmosphere and all this
+191348	193004	DialogFont	light coming from the windows.
+193124	197076	DialogFont	Maybe we decided to have a private High School, rather than
+197196	200096	DialogFont	a regular High School, of course for the photography course,
+200116	203564	DialogFont	but it was also to have less students, because we wanted
+203684	206056	DialogFont	the story to be a bit more intimate; we didn't want it to be
+206176	209560	DialogFont	this huge High School, with so many students. Based on what
+209680	212520	DialogFont	the player is doing, you can really learn more about them and
+212640	216004	DialogFont	see that they're actually not just a stereotype and the
+216124	219832	DialogFont	archetypes you would think they are. And this is still a perfect
+219952	224092	DialogFont	example of how episodic is hard, because if you look closely at
+224112	226088	DialogFont	this poster there is a mistake on it. It says that the exhibition
+226108	230556	DialogFont	takes place in the DeYoung Museum of Art, when actually, it's
+230676	234024	DialogFont	not that in Episode 5, it's the Zeitgeist Gallery. We have a
+234144	238036	DialogFont	really great community. Thank you guys. And people found
+238156	241048	DialogFont	this mistake and yes, it is a mistake, when we found out in
+241168	245088	DialogFont	Episode 5 that it couldn't be a museum, so it had to be an art
+245108	248060	DialogFont	gallery, so we changed the name and yes there is a mistake
+248180	251020	DialogFont	like this in Episode 1.
+254140	258592	DialogFont	We really wanted this feeling of being part of a whole High
+258612	262040	DialogFont	School, so it means a lot of people. It means bullying, it means
+262160	266048	DialogFont	difficulties when you're a teenager in this kind of world.
+266168	268512	DialogFont	And showing the different cliques and different kinds of
+268532	270052	DialogFont	teenagers.
+270172	274036	DialogFont	I think a lot of players love this introduction, the use of music
+274156	278032	DialogFont	here is really important as Max feels insecure in this
+278152	284056	DialogFont	atmosphere. We wanted her to be isolated; music is a great
+284176	288000	DialogFont	way of isolating yourself, when you just want to be on your own.
+288120	290548	DialogFont	So since the beginning of the game, we were working
+290668	295016	DialogFont	with licensed tracks - licensed music. When we were testing
+295136	299072	DialogFont	on prototypes of scenes, we put some licensed tracks from
+299192	303064	DialogFont	some artists we love - Syd Matters was one of them.
+303184	306504	DialogFont	And when we asked Jonathan Morali who is the lead of
+306624	312008	DialogFont	Syd Matters, if it is possible to use his music - he's a gamer, so he
+312128	316532	DialogFont	was really happy to have this new experience and for us it
+316652	321076	DialogFont	was just incredible to work with him and this type of editing
+321196	326028	DialogFont	is really, really difficult to do because you have to choose the
+326148	330072	DialogFont	important moment in a song and choose the right images.
+330192	336036	DialogFont	Because our writer Jean Luc has written many scenes built
+336156	342088	DialogFont	around music, the edit is based on the music, it's not the
+342188	343568	DialogFont	other way round.
+343688	346064	DialogFont	The music is really important in the game, it explains a lot
+346184	351028	DialogFont	about the characters because the choice of the music, the
+351148	353824	DialogFont	choice of the artist, it means a lot. For example, Chloe won't
+353944	356008	DialogFont	listen to the same artists as Max.
+356128	362028	DialogFont	For this guitar part, we asked the lead-singer of Syd Matters
+362148	368032	DialogFont	to play on top of a Jose Gonzalez song in a clumsy way to be
+368152	372056	DialogFont	sure that it would be like Max playing guitar.

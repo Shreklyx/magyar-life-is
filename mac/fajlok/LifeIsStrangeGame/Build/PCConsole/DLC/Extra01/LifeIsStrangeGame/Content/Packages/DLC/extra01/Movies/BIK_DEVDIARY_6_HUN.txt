@@ -1,0 +1,148 @@
+﻿01000 0
+
+7000	10028	DialogFont	Here is the outside of the campus, the first time
+10048	12064	DialogFont	for the player.
+12084	15036	DialogFont	So this is the first time the player will be able to use their
+15056	18076	DialogFont	power when they want. They can do before, but there
+18096	22076	DialogFont	are not so many interactions and puzzles, here we really
+22096	25064	DialogFont	wanted to have a lot of different things to do; talk to
+25084	28084	DialogFont	people, use the power, just do fun stuff.
+28104	33068	DialogFont	But we use this kind of environment for the player who
+33088	36048	DialogFont	like to take their time just to talk to characters and to
+36068	39092	DialogFont	look around. It really gives a sense of presence to Max
+39112	41008	DialogFont	and to the world.
+41028	44048	DialogFont	The important aspect of the game is really to give some
+44068	48044	DialogFont	rewards to the player who wants to take their time. So
+48064	52044	DialogFont	with these kind of sequences for example, we give what
+52064	55072	DialogFont	we call a reward, but in fact it's just a new element of the
+55092	57096	DialogFont	game. For example here, you will have a new layer of
+57116	60016	DialogFont	music, you can hear a new layer of the music. You will
+60036	63052	DialogFont	have all those camera angles that you can't have within
+63072	67088	DialogFont	the classic walkthrough - the classic gameplay in third
+67108	72080	DialogFont	person. So these kind of beautiful shots you will have
+72100	75060	DialogFont	only because you have chosen to take your time and to
+75080	79028	DialogFont	sit on the fountain. So the music, the shots and
+79048	82036	DialogFont	of course the voice-over of Max at the beginning,
+82056	86048	DialogFont	we hear what Max is thinking, so these kind of rewards
+86068	90052	DialogFont	will push, we think, the player to do that again and
+90072	93020	DialogFont	again. This is really something we wanted to have.
+93040	97012	DialogFont	In this game it's always feeling like what Max is feeling.
+97032	102024	DialogFont	We really wanted to focus on those moments, it was
+102044	106040	DialogFont	really capturing the moment when you can really take time
+106060	108544	DialogFont	to reflect on yourself and that's what Max is
+108564	112020	DialogFont	doing in those scenes. That's something that not a lot
+112040	114072	DialogFont	of games are doing to let the player take their time
+114092	118016	DialogFont	because in a lot of games you just need to go forward
+118036	119096	DialogFont	you need to go to this checkpoint, you need to
+119116	121000	DialogFont	do this and this.
+121020	125020	DialogFont	Since the beginning we wanted the rewind to be a tool
+125040	127040	DialogFont	that the player can use when they want, where they
+127060	132072	DialogFont	want; it won't be scripted. A rewind sequence for
+132092	135012	DialogFont	example, from a technical point of view you have to
+135032	138088	DialogFont	record all the different things that happen in the scene.
+138108	142008	DialogFont	Since you can rewind time, you can basically be in any
+142028	144096	DialogFont	part of the scene at any moment you like. Designing
+144116	147056	DialogFont	puzzles with the rewind was very, very hard. When
+147076	149012	DialogFont	you think it's done, when you think you've seen
+149032	152028	DialogFont	everything about it, you think the situation is in place
+152048	154092	DialogFont	and is going to be working well, there's always this
+154112	157012	DialogFont	tiny little thing that's fucking it up.
+157058	161026	DialogFont	Those elements are not really deterministic, so when
+161096	164064	DialogFont	you rewind, you're not sure that you will be able to
+164084	169052	DialogFont	restore the particle system in the same state.
+169072	171064	DialogFont	Courtney, seriously do not forget I need those papers
+171084	175034	DialogFont	before tonight, like now. Thanks chérie.
+175054	178032	DialogFont	This is the dormitory and this is also something that
+178052	181068	DialogFont	was interesting for us was to talk about dorm-life.
+181088	184008	DialogFont	We wanted to use this setting because we can really
+184028	187088	DialogFont	talk about social issues like the girls have their rooms,
+187108	190064	DialogFont	do you really like the people that live next to you, how
+190084	193096	DialogFont	the relationships are working inside the dormitory.
+193116	195096	DialogFont	Like right now what is interesting is you have different
+195116	199012	DialogFont	music that can come from the different rooms. It's a
+199032	201084	DialogFont	really interesting setting to setup a lot of different
+201104	203016	DialogFont	characters easily.
+203036	208008	DialogFont	Here the idea is to, again, have this believable
+208028	212084	DialogFont	universe of the students. We had to focus on what
+212104	214072	DialogFont	we wanted to tell and what we wanted to develop.
+214092	218064	DialogFont	In each episode, Alyssa is getting hit or is in danger
+218084	223068	DialogFont	from something and you can decide or not to use
+223088	226048	DialogFont	your rewind power to warn her and to actually to get
+226068	227596	DialogFont	her out of trouble.
+227616	232052	DialogFont	Again I think it links to the Kate story and all this kind
+232072	236076	DialogFont	of stuff, it's not just here to have fun, it's also to talk
+236096	239088	DialogFont	about those difficulties you can have when you could
+239108	243016	DialogFont	be someone like Alyssa, having these kind of problems.
+243036	248004	DialogFont	It's always a way to find these little details and
+248024	251064	DialogFont	elements that will bring more to the characters and
+251084	253096	DialogFont	how we are defining them without sometimes telling
+253116	255020	DialogFont	too much.
+255040	258092	DialogFont	So, this is the same actress as Chloe. The two main
+258112	263020	DialogFont	actresses who are playing Max and Chloe also
+263040	267092	DialogFont	played the other students. There is some of Chloe
+267112	271028	DialogFont	inside each one of them. You can see Max and Chloe
+271048	276020	DialogFont	here, the body animation is done in motion-capture
+276040	280044	DialogFont	on this project. We've done a lot of shooting, motion-
+280064	288064	DialogFont	capture with French companies. Max and Chloe, like
+288084	292036	DialogFont	the voice-actors are always played by the same actresses
+292056	297036	DialogFont	Serena and Gabrielle. So all the body-language and body-
+297056	303012	DialogFont	animation you see in the game are done by them. So in
+303032	307068	DialogFont	each scene, we discuss the scene with them and they add
+307088	310052	DialogFont	some things. Both of them, they have given something to
+310072	314000	DialogFont	their characters, even for Max because Serena was a bit
+314020	316040	DialogFont	shy at the beginning of the project and at the end of
+316060	321028	DialogFont	the project she was different and we can see the evolution of
+321048	323096	DialogFont	Max inside her acting.
+323116	324084	DialogFont	Who did you tell?
+324104	328016	DialogFont	The Principal, but he didn't seem to believe me.
+328036	331096	DialogFont	The Principal? Are you still 12? That drunk Jackass only
+331116	334080	DialogFont	cares about cash for Blackwell Academy.
+334100	335536	DialogFont	Don't trust him.
+335556	338056	DialogFont	I didn't mention you at all.
+338076	342098	DialogFont	This is the first time we will really see Max's universe by
+342118	345444	DialogFont	discovering her room. Let's go inside.
+345464	349858	DialogFont	It was a really important scene for us because you're
+349878	352604	DialogFont	playing as Max in the game, so you already start to
+352624	355862	DialogFont	know something of her with what happened before in Episode 1,
+355882	358884	DialogFont	but when you enter her room it is really her universe,
+358804	362918	DialogFont	everything in this room should describe her who she is and
+362938	365956	DialogFont	why she is like this and speak a bit more about her past.
+365976	370042	DialogFont	There is quite a lot in this room, in fact, compared to the -
+370062	373036	DialogFont	because we tried, I think, episode after episode also to focus
+373056	376494	DialogFont	on different things and we can't put too many objects in a room.
+376514	382054	DialogFont	If you want to play a character for five episodes you need to invest
+382074	385494	DialogFont	in this character and all those kind of details were really
+385514	389558	DialogFont	important to make a connection between the player and Max,
+389578	394038	DialogFont	to learn a bit more about what she experienced before, maybe
+394058	397990	DialogFont	also why she is like she is right now. Something that we really
+398010	401486	DialogFont	wanted to have with Max room is also to have a great contrast
+401506	405578	DialogFont	between Max and Chloe, so it was really important to have
+405598	408470	DialogFont	those two characters, Max and Chloe are really different, they are
+408490	413046	DialogFont	quite the opposite at the beginning of the story so we wanted
+413066	417534	DialogFont	her personality and also her universe, and her room reflects
+417554	422476	DialogFont	that and we took for Max softer colors, we have
+422496	427466	DialogFont	the pink I think on her bed cover it is really, really soft, the
+427486	430472	DialogFont	small cushion with flowers, the teddy bear.
+430492	433094	DialogFont	We've got a lot of different environments in the game, but we
+433014	437340	DialogFont	wanted really to be able to revisit the environments to have
+437360	440310	DialogFont	other things taking place in the environments, but telling
+440330	446300	DialogFont	different stories, telling different sequences so for example in
+446320	451278	DialogFont	this room when you go back here in the house in the alternative
+451298	458228	DialogFont	reality, we will find an empty room, Chloe's empty room,
+458248	462994	DialogFont	you have been so many times before Episode 4 with Chloe,
+463014	468176	DialogFont	having fun with Chloe, listening to music. Going back here
+468196	474170	DialogFont	without anything you will directly see what you've lost and what
+474190	478072	DialogFont	this other reality means for Chloe and for you.
+481092	484112	DialogFont	Max, try and find the light for the pool, I want to see the sharks.
+484132	487064	DialogFont	Otters don't like sharks, they bite.
+487084	489048	DialogFont	So do I. Hit that light.
+489068	492088	DialogFont	We've done the same for the swimming pool for example,
+492108	496040	DialogFont	we've got a great scene in the swimming pool between
+496060	499048	DialogFont	Max and Chloe when they are alone during the night and after
+499068	503096	DialogFont	you got this huge Vortex party, which is really different
+503116	506048	DialogFont	atmosphere.
+506068	509112	DialogFont	On the Production point of view, it is basically a
+509132	513044	DialogFont	new environment but it is still in the same place and with a lot
+513064	517064	DialogFont	of similarities, so it is really important to show, it was important
+517084	521108	DialogFont	for us to show the changes that Max can create with her power
+521128	526056	DialogFont	and the changes to the characters and to the world.

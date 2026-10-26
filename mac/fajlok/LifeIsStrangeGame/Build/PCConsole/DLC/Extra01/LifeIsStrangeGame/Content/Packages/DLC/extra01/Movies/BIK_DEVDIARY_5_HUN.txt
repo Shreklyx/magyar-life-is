@@ -1,0 +1,96 @@
+﻿01000 0
+
+0064	6010	DialogFont	So here we're going to play a bit of the junkyard scene. We
+6020	10012	DialogFont	love the junkyard scene because of a lot of different
+10032	13072	DialogFont	elements, but the first one I think is the environment.
+13092	16024	DialogFont	I think the environment artists have made something
+16044	17048	DialogFont	incredible here.
+17068	20012	DialogFont	For Life Is Strange we really wanted to have a stylized
+20032	25064	DialogFont	rendering. We didn't want it to be realistic, so every
+25084	28084	DialogFont	texture has been hand-painted to give this impressionistic
+28104	31068	DialogFont	feeling and I think in the junkyard it's really interesting
+31088	35008	DialogFont	because there are so many details that this is where this
+35028	38084	DialogFont	kind of simpler textures are working well because if this
+38104	42084	DialogFont	scene were overly detailed with cracks in the rust and everything,
+42104	47040	DialogFont	it would become really noisy to look at. We did a lot of
+47060	50080	DialogFont	work on the lighting effect and the atmosphere so it was
+50100	53052	DialogFont	really important for us to capture this morning feeling with
+53072	59012	DialogFont	the very, very cold colors in the fog but a slightly warm sun
+59032	63080	DialogFont	that just brings some soft and warm feelings to the scene.
+63100	67084	DialogFont	This scene is also a good example of what we want to do in
+67104	73032	DialogFont	terms of environmental storytelling. We've got a lot of
+73052	78024	DialogFont	different objects there, with their own story.
+78044	81020	DialogFont	OK, let's do this. Can you find five bottles while I prep the
+81040	82064	DialogFont	shooting range?
+82084	85060	DialogFont	Beer and guns? Nice combo.
+85080	88068	DialogFont	You can handle it. Now go find us five bottles pretty please.
+88088	91048	DialogFont	This is one of the best puzzles in the game (laughs).
+91068	94008	DialogFont	Yep I think it is. I think it was mostly the final bottle that
+94028	97008	DialogFont	was really hard to find and we made a mistake on it
+97028	99064	DialogFont	because maybe it was too well hidden. Our goal for this
+99084	103056	DialogFont	was to push the player to visit the place while looking for
+103076	106012	DialogFont	those bottles because there are a lot of interesting things to
+106032	109044	DialogFont	discover. Basically, the junkyard is where Chloe brought
+109064	113032	DialogFont	Max to try her power, but it's also where Chloe and Rachel
+113052	116072	DialogFont	were hanging out together before Rachel disappeared.
+116092	121016	DialogFont	So this place here was a small hideout for Chloe and Rachel.
+121036	124084	DialogFont	A lot of what we did in the whole game with environmental
+124104	127056	DialogFont	storytelling can be seen here because there is a lot of
+127076	130072	DialogFont	everything we like to include to tell a story with the
+130092	134536	DialogFont	environment. It's a good way of course to show more to
+134556	136524	DialogFont	the player.
+136544	140512	DialogFont	And it's also to give rewards to the players who want to
+140532	143504	DialogFont	know more about the characters - for those who are
+143524	148040	DialogFont	curious. You can do this whole scene without looking at all
+148060	150552	DialogFont	the details.
+150572	153520	DialogFont	There are some hidden things; this one is harder to find.
+153540	158500	DialogFont	I think that not a lot of players found it. This is a big letter
+158520	164032	DialogFont	that Rachel wanted to write to Chloe and maybe didn't.
+164052	167576	DialogFont	She never gave it to her. In Life Is Strange, we really tried
+167596	170576	DialogFont	to pay a lot of attention to the details, so we have a lot of
+170596	173580	DialogFont	various levels of things and if and if you look around, you
+173600	176552	DialogFont	can find some really, really small details that are useless to
+176572	178596	DialogFont	the main story, but are interesting.
+178616	182052	DialogFont	Actually, we started to play with that. Putting more and
+182072	186088	DialogFont	more things in corners, in dark areas, to see if players
+186108	190068	DialogFont	can spot them or not and usually they did.
+190088	194056	DialogFont	They noticed things that we thought they could not
+194076	198092	DialogFont	notice, like on a shirt, we have letters that when you put
+198112	203020	DialogFont	in the right order, it says "No Fucks Given" and they
+203040	204588	DialogFont	noticed.
+205614	208014	DialogFont	I don't know about this.
+208036	212052	DialogFont	Are you afraid of getting in trouble? Aw boo hoo, Max is afraid.
+212072	216008	DialogFont	I know you can handle this and I'm here to guide you.
+216028	218028	DialogFont	Make me proud sister.
+218048	221076	DialogFont	Life Is Strange is really a game about choice and
+221096	224096	DialogFont	consequences, so we have a lot of choices you can make
+224116	228072	DialogFont	in the game, which will have consequences later on in the
+228092	232020	DialogFont	same episode or in the other episodes and there's one
+232040	236092	DialogFont	big choice in this scene that will happen.
+236112	240016	DialogFont	The idea for each choice is really to have not an easy
+240036	244020	DialogFont	choice to take, even if it's not a life or death choice
+244040	249000	DialogFont	like you could have in another game, it's more everyday
+249020	252000	DialogFont	life choices. The importance is to make your own and
+252020	257032	DialogFont	decide to live with it. So that's why with Max's power it's
+257052	261036	DialogFont	of course more difficult because you can try a choice,
+261056	266048	DialogFont	you're not sure, you're going to try the other one, but
+266068	270016	DialogFont	the importance is, if you want to continue and to move on
+270036	274068	DialogFont	you have to stick with one and live with the consequences.
+274088	277064	DialogFont	So, in this choice in particular.
+277120	279052	DialogFont	This is quite interesting.
+279072	282012	DialogFont	What do you want to do Michel for the first one?
+282032	285024	DialogFont	I don't think I would shoot a guy I would say "no".
+285044	288572	DialogFont	So we won't shoot. So you can see directly the
+288592	293076	DialogFont	consequence. It means that you don't have the gun
+293096	297012	DialogFont	anymore because Frank is going to take it,
+297032	299532	DialogFont	Chloe will be pissed off.
+299552	303524	DialogFont	You can of course rewind and try the other one,
+303544	305552	DialogFont	but something that's really interesting because it was a
+305572	309520	DialogFont	lot of work at the beginning because we were thinking that;
+309540	312544	DialogFont	if you have the rewind, does it not completely destroy the
+312564	317560	DialogFont	fact that you making choices and actually, we have seen
+317580	322520	DialogFont	that players are really, really hesitating. We've watched
+322540	325528	DialogFont	some Let's Play videos and we've seen some players just
+325548	328004	DialogFont	even if they knew they could go back they were hesitating
+328024	329872	DialogFont	so much when they were making a choice, I think it's
+329892	331092	DialogFont	interesting.

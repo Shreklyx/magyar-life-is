@@ -1,0 +1,139 @@
+﻿01000 0
+
+0000	4044	DialogFont	One of the most challenging parts of working on the game
+4064	7508	DialogFont	with an episodic format, was to create those two
+7528	11516	DialogFont	characters in a way that would really appeal to the players,
+11536	15072	DialogFont	so when you arrive at this final choice at the end of Episode 5.
+15092	19094	DialogFont	If we wanted the final choice to work, we really needed the
+19104	23032	DialogFont	player to grow to love Chloe, to really get attached to Chloe.
+23052	27020	DialogFont	Two of the biggest challenges were of course, the writing
+27040	30060	DialogFont	and the voice-acting to make that happen.
+30080	34048	DialogFont	Of course the story was written as a whole since the
+34068	38048	DialogFont	beginning, so we couldn't change massive things, but small
+38068	41052	DialogFont	details could be added like a line of dialogue for a character.
+41072	45004	DialogFont	In Episode 3 when you visit Kate in the Hospital, and it
+45024	48080	DialogFont	wasn't supposed to be here, but we saw how much people loved
+48100	53012	DialogFont	Kate and we realized how important to have a scene like this one.
+53032	56580	DialogFont	It's a way of finding a voice for the character, so sometimes
+56600	60088	DialogFont	you just need to think about expressions or words that one
+60108	64000	DialogFont	character will use and the other won't use it and that's how
+64020	67080	DialogFont	you grow to like those characters, because when in
+67100	71940	DialogFont	Episode 3 or 4, Chloe at the Beaumont uses the word "hella"
+71960	75052	DialogFont	the players were waiting sometimes for it and recognize
+75072	77088	DialogFont	that OK, it's Chloe because she's using that.
+77108	81040	DialogFont	So we were working with Blindlight in Los Angeles. They
+81060	87584	DialogFont	sent us a lot of different voices to listen to them and we
+87604	90516	DialogFont	have to decide. So we decided with Michel, Sébastien and
+90536	92684	DialogFont	the producer from Square Enix, which ones we wanted. It
+92704	95064	DialogFont	was quite difficult for example,
+95084	98052	DialogFont	for Max we have about 40 I think.
+98072	100528	DialogFont	Yes we had 40 for the castings.
+100548	103080	DialogFont	For Chloe it was 30 or something like that.
+103100	107028	DialogFont	Most of the time, we were quite sure and we were in
+107048	111036	DialogFont	agreement on the actor, but it was really hard for Max,
+111056	115056	DialogFont	because it was always on our mind. Are we sure? Are we
+115076	117596	DialogFont	really sure that we're doing the right choice, because it's
+117616	120088	DialogFont	so important. I don't know the number of lines she has
+120108	125040	DialogFont	in the game, but I think that there are almost 14,000 lines
+125060	128004	DialogFont	in the game and I think that more than 10,000 are for Max.
+128024	132040	DialogFont	I've never played a character that I related to so much.
+132060	135064	DialogFont	I have a lot of the same issues that she does with her
+135084	139008	DialogFont	confidence and so, getting to play someone that seemed
+139028	143064	DialogFont	so similar to me was really an extraordinary experience.
+143084	147072	DialogFont	I really feel like I'm growing with her.
+151017	155025	DialogFont	There's a funny story for Jefferson, the guy we chose is
+155045	159049	DialogFont	Derek Philips and after we chose him, I discovered that
+159069	162089	DialogFont	he was Derek Philips and he was actually playing one of
+162109	165033	DialogFont	the main characters in the show Friday Night Lights, which
+165053	167085	DialogFont	is one of my favorite TV shows.
+167105	170081	DialogFont	Well this has just been really fun for me, especially coming
+170101	173041	DialogFont	from a stand-point where, you know, when I auditioned
+173061	176045	DialogFont	for the role, I wasn't sure if Jefferson was going to be the
+176065	179009	DialogFont	bad guy in this. So you know, we just kind of came in and
+179029	182065	DialogFont	we would do our voice-over sessions and he was just a
+182085	186033	DialogFont	cool teacher. So it was neat to find out about this twist. I mean
+186053	190025	DialogFont	I'd kind of heard that this might happen, but I didn't know
+190045	193093	DialogFont	for sure if it would. So it was really, really fun to play with that.
+193113	198061	DialogFont	We are really proud and happy to have Hannah and Ashly
+198081	203021	DialogFont	for Max and Chloe. All the voice talents we worked with
+203041	205041	DialogFont	were really involved, they've given something unique to
+205061	209069	DialogFont	those characters. That's why it's worked also, because
+209089	213085	DialogFont	there's a part of their soul inside the characters.
+213105	217005	DialogFont	For Hannah with Max, one of the hardest part is that
+217025	220013	DialogFont	there are so many lines of her inner-voice, so it was
+220033	223041	DialogFont	really important for Hannah to give something great for
+223061	227045	DialogFont	those and I think it was the case. And for Ashly, one of
+227065	230065	DialogFont	the really hard parts, and for Hannah too, is that there
+230085	233085	DialogFont	are really a lot of emotional scenes.
+233105	239002	DialogFont	I really wanted to sell the moments, and I was putting
+239022	241034	DialogFont	pressure on myself to make certain moments, like with
+241054	243066	DialogFont	Rachel and lots of the moments that happen in Episode 4,
+243086	245062	DialogFont	I wanted them to feel real.
+245082	250038	DialogFont	I'm constantly on this roller coaster. So I had to figure
+250058	255074	DialogFont	out how to harness those feelings so that I could use
+255094	259090	DialogFont	them to illustrate what Max is going through.
+259110	262098	DialogFont	I remember doing the voice-recording session for the
+262118	266070	DialogFont	scene where they're discovering Rachel's body. It was
+266090	271098	DialogFont	really hard for myself to even listen to the scene and
+271118	274086	DialogFont	they told me after that they were, both of them were
+274106	277094	DialogFont	really crying when they were recording this scene.
+277114	280090	DialogFont	We knew already how we wanted to end each episode
+280110	285054	DialogFont	but after we took a lot of time discuss about how and
+285074	290046	DialogFont	to think about the editing and the framing, the layout
+290066	292091	DialogFont	of each scene.
+292111	296076	DialogFont	The ending of each episode, that was something that
+296096	300060	DialogFont	was really important of course, because it's an episodic
+300080	305064	DialogFont	game so the ending is crucial if we want a player
+305084	309096	DialogFont	to enjoy the end of each episode and to come back for
+309116	313064	DialogFont	the next episode. I think we looked a lot at what can be
+313084	316052	DialogFont	done in TV series because with the Episodic format we
+316072	321020	DialogFont	were kind of the same. At the end of an episode, you
+321040	324088	DialogFont	want to either bring back some elements of the story
+324108	328036	DialogFont	in order to hook the player, or you can use a cliff-hanger.
+328056	332040	DialogFont	I think we did both of those, depending on the episode.
+332060	334045	DialogFont	So this is the ending for Episode 2.
+336032	340076	DialogFont	The endings to Episode 1 and 2 were not the same, but
+340096	347052	DialogFont	the idea was to show all the main characters from the
+347072	351064	DialogFont	game and to show there is maybe something more going
+351084	355064	DialogFont	on. At the end of Episode 1 we even show some characters
+355084	359056	DialogFont	you haven't met already. For example in Episode 1, Joyce
+359076	364064	DialogFont	and Frank. You will find them back here at the end of
+364084	371000	DialogFont	Episode 2 in small scenes. We really wanted in Episode 1
+371020	378068	DialogFont	and 2 for those ends to be a wide description of all the
+378088	382004	DialogFont	characters and all of what is going on and also showing
+382024	386016	DialogFont	other aspects of each character, for example, seeing
+386036	390088	DialogFont	David with his head on the shoulder of Joyce, seeing
+390108	396068	DialogFont	Victoria and Nathan in Victoria's room, seeing the Principal
+396088	400080	DialogFont	and Jefferson arguing. This kind of small insert will maybe
+400100	403058	DialogFont	push the player to want to see more.
+403078	406078	DialogFont	Because this is the only moment maybe where we're
+406098	409002	DialogFont	seeing these characters when Max is not seeing them.
+409022	413014	DialogFont	We are not telling too much, we are just showing a bit
+413034	417030	DialogFont	more of those characters, a bit of mystery. This goes with
+417050	420030	DialogFont	the idea that everybody might be hiding something,
+420050	424022	DialogFont	everybody might be a bit different. Like Victoria here, we
+424042	427038	DialogFont	can see her crying when clearly this is not the way her
+427058	430074	DialogFont	character would behave before and having Nathan going
+430094	432062	DialogFont	into her room, we don't know what is happening between
+432082	435074	DialogFont	the two of them, but it's still bringing a bit of mystery and
+435094	439050	DialogFont	interest for the characters and for the player. When we
+439070	442074	DialogFont	worked on the cliff-hangers for Episodes 3 and 4, of course
+442094	447022	DialogFont	our goal was to have a twist, we were really trying to go
+447042	450046	DialogFont	on with what was important for the story and not just
+450066	452074	DialogFont	have a shock factor.
+452094	455034	DialogFont	We just really want to thank you for all the gifts.
+455054	457086	DialogFont	Yeah.
+457106	460006	DialogFont	All the support we have from you. And thank you very
+460026	463098	DialogFont	much for being so active, so passionate about the game
+463118	467050	DialogFont	and we're really happy to see that those characters and
+467070	471090	DialogFont	this story and these themes means something also for
+471110	476038	DialogFont	you. This is why we're doing games. We're really happy,
+476058	478038	DialogFont	so thank you.
+478058	482046	DialogFont	Thank you so much, we really think that you are one of
+482066	484070	DialogFont	the best communities we've seen for a game.
+484090	487086	DialogFont	I'm going to cry Michel (laughs).
+487106	492054	DialogFont	Yeah and this community is really nice, I didn't see a lot
+492074	495054	DialogFont	of bad words, you know sometimes in a video game
+495074	500062	DialogFont	community it can go easily wrong and it's really pleasant
+500082	505070	DialogFont	to read everything that the Life Is Strange community has
+505090	507040	DialogFont	to say.

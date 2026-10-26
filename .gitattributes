@@ -1,0 +1,5 @@
+# A fordítás fájljait bájtra pontosan kell megőrizni (UTF-16, CRLF).
+mac/fajlok/** binary
+
+*.sh text eol=lf
+*.command text eol=lf

@@ -1,0 +1,118 @@
+﻿01000 0
+
+0000	3000	DialogFont	Stop treating me and my Mom like we're a family platoon.
+3017	5041	DialogFont	Hey, leave Joyce out of this.
+5086	8086	DialogFont	I wish you'd leave Joyce, like now.
+12006	18026	DialogFont	Seeing this kind of family violence. It is something you
+18046	21026	DialogFont	can have encountered as a player, I think we all know some
+21046	24042	DialogFont	people that got some difficulties and you can have yourself also.
+24062	28098	DialogFont	Here the choice you are going to take will have consequences
+28118	35054	DialogFont	on the relation of Max and Chloe, but also with her father.
+43074	45070	DialogFont	Hey, you ok?
+45090	48090	DialogFont	Welcome to the real Step-Douches of Arcadia Bay.
+49006	50056	DialogFont	I'm sorry.
+50076	54050	DialogFont	For what? He would have been a bigger dick if he caught you in here.
+54070	57082	DialogFont	David could seem very archetypal.
+57102	60046	DialogFont	Yes, one dimension at the beginning.
+60066	66054	DialogFont	Episode after episode you can see that may be he's got his
+66074	68030	DialogFont	own reasons.
+68050	72066	DialogFont	I think that not at any moment are we justifying the fact that he
+72086	76070	DialogFont	could beat Chloe or be how it is. But it is just showing the
+76090	80054	DialogFont	perspective that not everything is black or white, so we did a lot
+80074	84082	DialogFont	of research to be sure that we were dealing with those themes in
+84102	88086	DialogFont	a good way. Too much gameyfing this we could really maybe
+88106	93078	DialogFont	hurt some people and if we are talking about issues those people
+93098	98050	DialogFont	have had and not making it right it could be worse and it could be
+98070	100038	DialogFont	the opposite of what we wanted to do at first.
+100058	105086	DialogFont	So here is Kate character who you have met in the first episode
+105106	110026	DialogFont	but not until Episode 2 is really focused on Kate's story and
+110046	112086	DialogFont	Kate's difficulties.
+112106	118038	DialogFont	So in this scene it is a good way again in how we tried to advance
+118058	122042	DialogFont	the story about Kate but also show more of the other characters,
+122062	126038	DialogFont	Victoria and Taylor, so we are continuing about what is shown of
+126058	130010	DialogFont	Victoria in Episode 1, like in of course that she is really a mean
+130030	134038	DialogFont	person, that she is harassing Kate because she makes fun of her
+134058	140014	DialogFont	and so this kind of scene, we are really trying to advance the
+140034	144022	DialogFont	story, bring out more of the characters and of course great
+144042	146014	DialogFont	cameras.
+146034	149018	DialogFont	Max Selfie thought she was a badass taking that picture.
+149038	153082	DialogFont	We wanted to talk about all the cyber bullying the fact that it's
+153102	159030	DialogFont	quite difficult for teenagers nowadays to be connected as
+159050	164098	DialogFont	everyone is now. I think everyone has got a phone and is
+164118	166002	DialogFont	connected always.
+166022	168094	DialogFont	And can send a text message a lot and we are making fun
+168114	172002	DialogFont	with that while we are thinking about both sides of the
+172022	174010	DialogFont	social media.
+174030	177026	DialogFont	On the other hand you've got this dark aspect of the internet that
+177046	182010	DialogFont	can be really, really difficult to leave I think. A lot of players
+182030	187042	DialogFont	could recognise some of themselves inside Kate and we've received
+187062	194030	DialogFont	a lot of letters from players who say that, that helped us also to
+194050	197086	DialogFont	realise what they've been through. We've wanted to have this
+197106	201046	DialogFont	scene since the beginning, we are quite happy that we managed
+201066	204094	DialogFont	to keep it, working with Square Enix was great for that, we
+204114	209078	DialogFont	managed to keep a lot of difficult scenes like this one. It is not
+209098	214070	DialogFont	only talking about the scenes, it is also to be sure it is anchored
+214090	218078	DialogFont	inside our story and here of course this experience and the
+218098	223558	DialogFont	Kate story will push Max to think about her power, to think
+223578	226038	DialogFont	about the consequences, to think about the relation with
+226058	227018	DialogFont	other characters.
+227038	230090	DialogFont	That's actually the one time in the game where Max's power
+230110	235030	DialogFont	fails her, so when you arrive on the roof, you are really by
+235050	241002	DialogFont	yourself. You have to talk Kate out of jumping and this was
+241022	244062	DialogFont	also the second part of we wanted to do with this scene was to
+244082	249054	DialogFont	show that if YOU care about the people you like, you can help them
+249074	252098	DialogFont	and that is basically what Max has to do in this moment. To
+252118	259066	DialogFont	care about Kate, to show her that she knows her as a friend
+259086	263022	DialogFont	and to talk her out of jumping. I think that is something that
+263042	269046	DialogFont	was interesting in writing all these scenes is, even in Episode 1,
+269066	276046	DialogFont	Kate was written as a kind of archetype, she was a bit religious,
+276066	283030	DialogFont	she is for abstinence and she has this, basically pro-life idea.
+283050	286082	DialogFont	So, maybe some of the players could think she is a boring
+286102	290010	DialogFont	character, but the way that we evolved her and write her in the
+290030	293042	DialogFont	other episodes. We really wanted to show that even if you go
+293062	296038	DialogFont	past the first appearance of someone, that something you
+296058	301034	DialogFont	might feel not interesting or different to you, you can find really
+301054	307014	DialogFont	good things and interesting things in each person and I was really
+307034	311010	DialogFont	happy in the way that the community reacted to Kate as a character.
+311030	315002	DialogFont	We didn't want to gameyfy this kind of scene.
+315022	320022	DialogFont	We still have to have rules, even if they're really in the background
+320042	325010	DialogFont	and the player doesn't see those rules, but in the end we still need
+325030	329038	DialogFont	to create the scene with the scripting and a way to make it work.
+329058	333086	DialogFont	It was really hard to find a good balance to make it feel as
+333106	338034	DialogFont	transparent as possible for the player and create the feeling that
+338054	342098	DialogFont	it's just a dialog between Max and Kate. It was a really hard one
+342118	347002	DialogFont	to write, there are a lot of branches, a lot of variations and I think
+347022	350086	DialogFont	even in the voice recordings, it took a lot of time; it was one full
+350106	357066	DialogFont	session, just for Hannah and Diane - who plays Kate. It was really
+357086	361038	DialogFont	important to keep this going after in the other episodes, so it's
+361058	364026	DialogFont	not just that we have done the scene and then we go onto the
+364046	366042	DialogFont	next part of the game.
+366062	369040	DialogFont	I'm going to be here for another day, until my family comes out to visit.
+369060	371064	DialogFont	How are they treating you?
+371084	375028	DialogFont	Like they need to protect me forever, they are so upset and I know
+375048	379020	DialogFont	they feel guilty, even though they didn't do anything.
+380040	382090	DialogFont	We wanted to talk about this theme of
+382110	389054	DialogFont	euthanasia but to talk about in a way that would be respectful
+389074	394076	DialogFont	for any sort of position because it was really important to try
+394096	400021	DialogFont	not to say: this is right, this is wrong and allow the player to really
+400092	403067	DialogFont	see how they would like to play the scene at this moment based
+403140	407044	DialogFont	on what they felt for the situation, for Chloe, for her parents and
+407064	412064	DialogFont	everything. That was not easy to find that balance when doing that.
+412084	415062	DialogFont	And again, it's because it's interactive and it's a video
+415082	419090	DialogFont	game that this scene is so strong I think. You can just
+419110	424076	DialogFont	see a scene and think "OK, this is the director's point of
+424096	428048	DialogFont	view and that's it, I can accept it or not", but it will be
+428068	431068	DialogFont	your choice, you really have to think about it before
+431088	434051	DialogFont	making your choice.
+434071	436014	DialogFont	And we've seen all kinds of reactions, we've seen players
+436034	439078	DialogFont	who immediately say "No I can't do it" . Or other players
+439098	443019	DialogFont	might immediately accept what going on in those scenes.
+443080	446030	DialogFont	Of course it's Chloe that I'm accepting and a lot of others
+446072	449088	DialogFont	were hesitating for 5 or 10 minutes or so and I think that
+449108	454060	DialogFont	I like that we did that, but we've been a bit mean to the
+454080	458020	DialogFont	player because we give them a choice and maybe they
+458040	461076	DialogFont	can not make any choices on this, but you have to still
+461096	465060	DialogFont	make a choice. I think it was stronger, because what we
+465080	469030	DialogFont	wanted to do with that is to show that you have to take
+469040	472990	DialogFont	responsibility for your actions and you have to decide
+473010	476960	DialogFont	something, you can not get an easy way out.

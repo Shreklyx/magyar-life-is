@@ -1,0 +1,110 @@
+﻿01000 0
+
+0050	2898	DialogFont	Nathan Prescott is a punk-ass, who begs like a little girl and
+3018	4018	DialogFont	talks to himself.
+4064	6508	DialogFont	You don't know who the fuck I am or who you're messing
+6628	7568	DialogFont	around with.
+7588	10668	DialogFont	Where'd you get that? What are you doing? Come on, put
+10688	11164	DialogFont	that thing down.
+11184	15556	DialogFont	Don't ever tell me what to do. I'm so sick of people trying to
+15576	16764	DialogFont	control me.
+16784	19388	DialogFont	You are going to get in hella more trouble for this than drugs.
+19458	23322	DialogFont	This scene, this is the starting point of Max discovering that
+23442	27562	DialogFont	she has this weird power because basically this adrenaline rush
+27682	32058	DialogFont	and slowing, looking at Chloe getting shot. So that's
+32078	36026	DialogFont	how she can trigger that for the first time. She doesn't really
+36046	39866	DialogFont	know why, but that's the seriousness of the situation
+40086	44046	DialogFont	and then you'll go back into the art class. So we really tried in
+44066	47054	DialogFont	this scene to show the déjà vu feeling, so the editing and the
+47074	51542	DialogFont	shots were there to give this weird feeling to the player that
+51562	54490	DialogFont	OK, I'm living that again and again, looking at the different
+54510	57010	DialogFont	moments that the player saw the first time in this
+57030	60986	DialogFont	scene. So for the editing in this sequence, we
+61006	64286	DialogFont	wanted to keep the same elements, but not
+64306	67022	DialogFont	necessarily the same shots, you can see that the
+67042	70550	DialogFont	first three shots are the same I think and after we
+70570	73582	DialogFont	begin to change the point of view a little. So you
+73602	76602	DialogFont	understand that they are the same events going on,
+76622	79534	DialogFont	just seen from a different point of view.
+79554	82090	DialogFont	I think to be perfectly honest, we don't have a good
+82110	84870	DialogFont	explanation for why she's going back to the art class
+84890	86562	DialogFont	because we needed it for...
+86582	89094	DialogFont	I've got one but I'll never tell you.
+89114	91510	DialogFont	I don't think it's a mistake because we also need to explain to
+91530	95598	DialogFont	the player so the player can learn how things are working and
+95618	99818	DialogFont	it's quite hard to do. So we took this freedom to have Max
+99938	102542	DialogFont	go back to the art class, which, even if it's a bit contradictory
+102662	106082	DialogFont	with how her power works after that. We are using this to
+106102	111074	DialogFont	explore more of Max's personality and her character because
+111094	115526	DialogFont	that is the way we created the character. Max has, we've seen
+115546	118530	DialogFont	that with what she's thinking, she has a lot of insecurity, she
+118550	121990	DialogFont	has issues with moving forward in her life, to take decisions.
+122010	127542	DialogFont	Now she has this ability to not go forward, but to go backward.
+127562	133510	DialogFont	So, it's an interesting storytelling device to question with her
+133530	137062	DialogFont	character and with the player of course to question choice and
+137082	140538	DialogFont	consequences, to question fate, to question really interesting
+140558	142514	DialogFont	issues.
+142534	145502	DialogFont	I think Max would never have changed as much as
+145522	149026	DialogFont	here in our story without this power and without
+149046	152526	DialogFont	the sci-fi elements. It puts the player in a very
+152546	155566	DialogFont	interesting position because they will
+155586	158050	DialogFont	ask themselves while they're doing some of the interactions,
+158070	162010	DialogFont	they can undo the interactions and try something else, but also
+162030	166098	DialogFont	Max by doing this, will ask herself "Am I making the right
+166118	171990	DialogFont	decision. Is it a good choice or not". So, we deconstructed the
+172010	176550	DialogFont	mechanism of classic adventure games just by adding this
+176570	180070	DialogFont	power and the fact that you can undo things and try other things.
+180090	184570	DialogFont	Of course in most games, you can do it with quicksave, quick
+184590	187534	DialogFont	load, but like you said, it's only the player who
+187554	190542	DialogFont	does that and that's one of the main themes of the
+190562	194054	DialogFont	game: If I have the power to rewind and to change
+194074	196030	DialogFont	things, should I do it? Because sometimes, it can
+196050	199594	DialogFont	be really seen as lying. If I say a lot of things
+199614	202514	DialogFont	that you don't like and I go back in time and don't
+202534	206022	DialogFont	say them so you're not angry at me, it's a bit of
+206042	209582	DialogFont	a trick. So we are really asking those questions and in the beginning
+209602	213046	DialogFont	of the game, we are letting the player and Max do it a lot, she's
+213066	216582	DialogFont	getting to make a lot of friends with this rewind, but later in the
+216602	219578	DialogFont	game and especially in Episode 5, we are really questioning this,
+219598	223570	DialogFont	to see maybe it wasn't the right thing, maybe what you did, to try
+223590	227514	DialogFont	to lie to people with your power, was it really good? And that
+227534	230522	DialogFont	is something that can be interesting for the story but also to
+230542	232506	DialogFont	ask the player at that moment.
+232526	236506	DialogFont	I think this is also what we wanted to do with this game to
+236526	238562	DialogFont	show that it's difficult to make those choices and it's even
+238582	241558	DialogFont	more difficult to live with it, but you have to learn to do that.
+241578	244098	DialogFont	But you still have to. Even if you could hesitate a lot, there
+244118	245558	DialogFont	is no perfect way to do things.
+245578	251526	DialogFont	OK, if I'm crazy, I might as well go all the way. Can I actually
+251546	252542	DialogFont	reverse time?
+252562	256006	DialogFont	And so this is basically the first time that the player will
+256026	261526	DialogFont	actively rewind, so we have Max thinking that "OK I just got
+261546	265562	DialogFont	back in time, I'm in the art class". And so that's why we
+265582	268542	DialogFont	made her break her camera because we needed to have an
+268562	273510	DialogFont	element that the player will see, that we will rewind so we
+273530	276522	DialogFont	can really explain how to rewind. So Max broke her camera
+276542	280522	DialogFont	and so she's thinking "OK if I go back in time, maybe I can
+280542	283558	DialogFont	try to do it again and reverse that". So that's the first real
+283578	286502	DialogFont	rewind that the player is actively doing.
+286522	289090	DialogFont	It was ok, we don't really want players to use the
+289110	292526	DialogFont	rewind all the time, but it's important in the beginning of
+292546	296794	DialogFont	the game to really show the players the tools they have and
+296814	299914	DialogFont	it was really important for us to have this in this scene, to
+299934	303034	DialogFont	have a lot of uses of the rewind, so the player can say "OK I
+303054	305510	DialogFont	know how it is now and now I decide if I use it or not".
+305530	309034	DialogFont	I hope I have enough time to get to the bathroom.
+309054	314002	DialogFont	Please, please. I can't tell anybody. They'll think I'm crazy.
+314022	316514	DialogFont	Since we are really playing the game from the point of view
+316534	319510	DialogFont	of Max, for her, not everything is clear, so it shouldn't be
+319530	323034	DialogFont	clear for the player, but there are really a lot of hints that
+323054	325046	DialogFont	should really guide the players to understand what's
+325066	330058	DialogFont	happening. We have a lot of symbolism with totem spirit
+330078	334018	DialogFont	animals. We have the doe and you can clearly see in
+334038	337074	DialogFont	Episode 4, that the Doe is clearly linked to Rachel and it's
+337094	343050	DialogFont	basically somehow a presence of Rachel that's guiding Max
+343070	347006	DialogFont	at moments. I'm not sure that many players noticed, but in
+347026	350038	DialogFont	Episode 2 actually, when you see the doe in the junkyard,
+350058	354510	DialogFont	it's precisely where Rachel is buried. There is this mystic
+354530	358526	DialogFont	feeling around the town and since we didn't want to clearly
+358546	362502	DialogFont	explain everything, it's part of what makes Arcadia Bay a
+362522	364002	DialogFont	bit different and a bit special.

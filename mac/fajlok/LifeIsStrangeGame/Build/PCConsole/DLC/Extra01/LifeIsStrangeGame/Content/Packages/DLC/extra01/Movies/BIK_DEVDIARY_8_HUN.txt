@@ -1,0 +1,137 @@
+﻿01000 0
+
+0000	3012	DialogFont	We took a lot of photographs even some of the signs like
+3032	5592	DialogFont	the "No Weapons" and "No Bullying" signs, we took
+5612	8596	DialogFont	photographs in some High Schools, it wasn't in Oregon,
+8616	12536	DialogFont	it was in Washington so it's still in the Pacific Northwest,
+12556	18044	DialogFont	near Seattle, and we took and adapted some of those
+18064	23564	DialogFont	posters. Even for example, like this, for the Map, we did
+23584	28052	DialogFont	a lot of research of real maps, of real buildings, trying to
+28072	32048	DialogFont	be quite precise with the scale, the layout, the locations,
+32068	35020	DialogFont	because we really wanted everything to feel genuine
+35040	39072	DialogFont	because sometimes, you can go really wrong in a game,
+39092	44052	DialogFont	if you start to forget about the scale and the detail, so
+44072	47064	DialogFont	we really wanted to have things right, like having this
+47084	51544	DialogFont	kind of fire hose in this place and since the game takes
+51564	54044	DialogFont	place in October and we are in the US, there's already
+54064	57056	DialogFont	a lot of Halloween decorations and stuff like that.
+57076	61068	DialogFont	We wanted to have the game anchored in reality, but also
+61088	65084	DialogFont	of course we have a lot of references, we are huge fans
+65104	71024	DialogFont	of TV shows, of books, of movies and I think that in
+71044	74088	DialogFont	Life Is Strange, the setting was really good to have a lot of
+74108	79020	DialogFont	those easter eggs that will speak to the players and put
+79040	84084	DialogFont	the game into a pop-culture reality so there is a lot of
+84104	87060	DialogFont	stuff that is scattered around the game.
+87080	90020	DialogFont	If you look at every licence-plate in the game, you will see that they
+90040	93080	DialogFont	are saying something. In Episode 1, it's titles of TV
+93100	97084	DialogFont	shows that we liked or that were somehow inspiration
+97104	99532	DialogFont	in some part for the game.
+99552	102044	DialogFont	In Episode 2 it's movies.
+102064	106052	DialogFont	In the dormitories, you have the room which someone
+106072	109052	DialogFont	wrote REDRUM on the slate.
+109072	111000	DialogFont	It's the number of the room in The Shining.
+111020	115096	DialogFont	Yes. So it shows that we love, us as developers, the
+115116	117540	DialogFont	movie, but also that the characters in the game of
+117560	120032	DialogFont	course know about this movie because it exists in their
+120052	123064	DialogFont	real-world and they are making jokes about it.
+123084	126060	DialogFont	We knew that we had to hire an American script-writer.
+126080	133016	DialogFont	We sent some tests to a few writers that we knew, and
+133036	138020	DialogFont	Christian Divine, we had a skype with Christian, after
+138040	141064	DialogFont	maybe 2 minutes, we all knew that it was going to be
+141084	144060	DialogFont	him. I had this vision of him in the office, working
+144080	145872	DialogFont	with us.
+145892	150076	DialogFont	Since we chose him, he was at 100 per cent or even
+150096	155052	DialogFont	200 per cent on the project. He completely understood
+155072	158048	DialogFont	what we wanted to do with the characters and with the
+158068	161064	DialogFont	story and with the different themes we wanted to talk about.
+161084	164088	DialogFont	During a motion-capture session, we ask the
+164108	169080	DialogFont	actor and the actress to, when they meet, Max and
+169100	172056	DialogFont	Warren meet for the first time, here in the parking lot,
+172076	177008	DialogFont	we asked them, they were trying to kiss each other, but
+177028	180084	DialogFont	you can't do that in the United States in fact. As French
+180104	184084	DialogFont	people we were thinking yeah it's cool to kiss.
+184104	186048	DialogFont	Warren would try to kiss Max.
+186068	188032	DialogFont	Yes Warren would try to kiss Max on the cheek.
+188052	192048	DialogFont	But it would never happen so we changed after a discussion
+192068	196028	DialogFont	the writer and a lot of friends, we said "OK, yeah we
+196048	199028	DialogFont	will switch it to a hug". So we changed the animation
+199048	203036	DialogFont	to have Warren just try to hug Max and not try to kiss her.
+203056	205080	DialogFont	This is the kind of mistake that can happen as French
+205100	209000	DialogFont	people, so we have to be very careful about that.
+209020	211036	DialogFont	Because in France you can, you can say hello by kissing
+211056	213076	DialogFont	Yeah, in France you just say "hello" by having a peck
+213096	216072	DialogFont	on the cheek and not in the US. And this is the kind of
+216092	220032	DialogFont	stuff where having an American writer was really needed.
+220052	223040	DialogFont	We made some other mistakes like with this parking, at
+223060	226016	DialogFont	the beginning, we had the parking spots which were
+226036	229024	DialogFont	really small and Christian said that these are not American
+229044	232004	DialogFont	parking spots. In the US you have large parking spots
+232024	235016	DialogFont	because you have big cars so we changed that, and we did
+235036	239068	DialogFont	that for various things, like sometimes a sign might not
+239088	243028	DialogFont	have the right position or something that was not perfectly
+243048	246028	DialogFont	true to reality.
+246048	250064	DialogFont	So, Chloe's house. This is the very, very first scene we
+250084	257004	DialogFont	made for the game, so this is really the scene that we have
+257024	260024	DialogFont	modified a lot in creating Life Is Strange.
+260044	264068	DialogFont	This is also the scene with which we sold the game to
+264088	267016	DialogFont	Square Enix at the point we showed to the publisher.
+267036	270088	DialogFont	The first time I tried the game, it was Chloe's room, a
+270108	274036	DialogFont	really early prototype and it felt fantastic to play it, I was
+274056	278056	DialogFont	literally smiling while playing it because the scene was
+278076	283004	DialogFont	working really great already even though the environment
+283024	286044	DialogFont	and the characters were not final, it was really good to play.
+286064	290000	DialogFont	We decided to use this scene because every mechanism
+290020	294044	DialogFont	is here, but it's also a scene that shows really what
+294064	297080	DialogFont	Life Is Strange is because it's a story about two girls trying
+297100	301024	DialogFont	to reconnect. We had the two main characters, we had
+301044	305000	DialogFont	strong issues with what happens with David later and we
+305020	308092	DialogFont	have the environmental storytelling when you're
+308112	311004	DialogFont	visiting the different parts of the house, we have a
+311024	313060	DialogFont	zen sequence. It had the feeling that we really wanted to
+313080	317044	DialogFont	push for the game, this slow-paced, nostalgic feeling.
+317064	320508	DialogFont	I think that this scene is a really good one to show that
+320528	322000	DialogFont	in Episode 1.
+322020	325016	DialogFont	At the beginning, it wasn't exactly like that, we've had
+325036	331052	DialogFont	different outcomes, so the scene that is in the game now
+331072	335000	DialogFont	is really different from the very first prototype. At the
+335020	339044	DialogFont	very beginning, it was only the arguing with David. We
+339064	344548	DialogFont	did it in the motion-capture and I played with Jean-Luc.
+344568	347064	DialogFont	You were doing Chloe.
+347084	350056	DialogFont	Yes I was doing Chloe and Jean-Luc was playing- No I was
+350076	357004	DialogFont	playing David. Jean-Luc is a great writer who wrote the
+357024	359048	DialogFont	original story, so we have played it all together because
+359068	364020	DialogFont	we didn't have the money in fact to have an optic
+364040	370008	DialogFont	motion-capture shooting, so we tried by ourselves to do
+370028	372072	DialogFont	the animation for the prototype and I remember the
+372092	376076	DialogFont	animation was quite ugly, the characters were ugly.
+376096	379004	DialogFont	Yes the first version was ugly, at the beginning, we had
+379024	382084	DialogFont	no textures. We had only the grey characters who were
+382104	385016	DialogFont	really weird without hair, so we had a hairless Chloe.
+385036	388080	DialogFont	Yes and Max was also quite frightening. The smoke and
+388100	394044	DialogFont	all the effects elements are made using the same idea.
+394064	398096	DialogFont	They are non-realistic, but it looks like hand-drawn smoke,
+398116	403208	DialogFont	but it's really beautiful and our effects-artist has made
+403228	406020	DialogFont	a lot of effects like this. We can see also the wind-effects
+406040	408000	DialogFont	outside.
+408020	410068	DialogFont	Yes, the wind-effects are really beautiful.
+410088	415076	DialogFont	And we tried to be as close as possible to the concept art
+415096	420052	DialogFont	like in the game we wanted it to look like some animated
+420072	427092	DialogFont	concept art. The 3D environment-artist and the
+427112	430012	DialogFont	concept-artist, they did a really good job at that, because
+430032	434008	DialogFont	if you look at the concept art for this room and the 3D
+434028	439040	DialogFont	final scene, it's pretty close. We have those low-detail
+439060	443088	DialogFont	textures, but this feeling of light it's a lot of details that
+443108	446084	DialogFont	we try everywhere. Even if you look at the light on the
+446104	450036	DialogFont	drawer, even on the light, we have this small bending
+450056	453032	DialogFont	that gives the look that the light was hand-painted. We
+453052	457048	DialogFont	did a lot of work on everything, of lighting, on visual-effects,
+457068	461024	DialogFont	textures to have this crazy style. And sometimes, the
+461044	464064	DialogFont	player might not completely notice it, but it still gives
+464084	466000	DialogFont	this cohesion to the game.
+466020	471008	DialogFont	Like for example, in Chloe's house, how rich Chloe's
+471028	474032	DialogFont	parents are, what kind of house they can afford, so
+474052	478060	DialogFont	this gets painted, in concept art, we do every room,
+478080	482068	DialogFont	the map, even the floor map. In Max's room, there's
+482088	485040	DialogFont	a lot of photos on the wall, because she likes to take photos
+485060	489004	DialogFont	and you get the bands, posters of bands that she likes.
+489024	494004	DialogFont	You have to feel who they are just by looking at the room.
