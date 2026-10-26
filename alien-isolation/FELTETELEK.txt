@@ -1,0 +1,42 @@
+Alien: Isolation magyarítás (1.2)
+
+A magyarítás eredeti telepítőjéből (Alien_Isolation_HUN_1.2.exe), változtatás nélkül:
+
+------------------------------------------------------------------------
+
+A lokalizáció a készítők szellemi tulajdona, azt módosítani a készítők engedélye nélkül tilos!
+
+A magyarítás vagy annak bármely eleme nem terjeszthető más neve alatt.
+
+A fájlok és az azokat tartalmazó telepítő pénzért nem árusítható sem most, sem a későbbiekben.
+
+Vírusmentesség nincs garantálva, de ellenőrizve volt!
+
+------------------------------------------------------------------------
+
+Készítők: Patyek, Beholder
+
+Tesztelők: Patyek, Beholder, HJ, ScomComputers
+
+Fontot szerkesztette: cockafej
+
+Telepítő: FEARka
+
+Támogató: A The Gamers Hungary csoport
+https://www.facebook.com/groups/TheGamersHungary/
+
+Hibabejelentés (helyesírási vagy egyéb hibák): patyek@patyekmagyaritasai.hu
+
+Támogatás: http://patyekmagyaritasai.hu/tamogatas.html
+
+(Utoljára frissítve: 2022. 07. 27.)
+
+v1.2: Több verzió támogatása.
+v1.1: Új telepítő, javított betűtípus (őű).
+v1.0: Fordítás kiadva.
+
+------------------------------------------------------------------------
+
+A Mac-es változat a fenti feltételek szerint készült: a fordítás fájljai
+bájtra azonosak a Windows-os telepítő Steam-es változatában lévőkkel, csak
+a telepítés módja lett Mac-re átírva. A csomag ingyenes.
