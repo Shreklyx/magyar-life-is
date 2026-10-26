@@ -42,6 +42,7 @@ GAME_DIR=""
 DATA_DIR=""
 ENGINE_DATA_DIR=""
 LOWER_MODE=0
+LANG_SET=0
 
 say() { printf '%s\n' "$*"; }
 
@@ -379,7 +380,8 @@ EOF
 	done <<EOF
 $(engine_inis)
 EOF
-	[ "$n" -gt 0 ] || say "  Figyelem: nem találtam Language= beállítást. Ha angol marad a játék, használd a Telepites-angol-helyere.command-ot."
+	LANG_SET="$n"
+	[ "$n" -gt 0 ] || say "  Nem találtam Language= beállítást (a Mac-es indító állítja a nyelvet)."
 }
 
 # A magyar szöveg az angol (INT) fájlok helyére: így akkor is magyar lesz
@@ -527,10 +529,13 @@ telepites | angol-helyere)
 	check_writable
 	prepare_state
 	install_hun
-	[ "$MODE" = "angol-helyere" ] && install_over_int
+	# A Feral-féle Mac-es változatban nincs Language= sor, ott csak az
+	# angol fájlok cseréjével lesz magyar a játék.
+	if [ "$MODE" = "angol-helyere" ] || [ "$LANG_SET" = 0 ]; then
+		install_over_int
+	fi
 	say ""
-	say "Kész! Jó játékot! Ha a játék angol marad, futtasd a"
-	say "Telepites-angol-helyere.command-ot. Visszaállítás: Eltavolitas.command."
+	say "Kész! Jó játékot! Visszaállítás: Eltavolitas.command."
 	;;
 eltavolitas)
 	uninstall
