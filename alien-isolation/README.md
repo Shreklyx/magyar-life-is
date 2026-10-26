@@ -21,7 +21,7 @@ Az eredeti `Alien_Isolation_HUN_1.2.exe`-t futtatás nélkül, teljesen kicsomag
 1. Telepítsd az Alien: Isolationt Steamen, és lépj ki belőle.
 2. Csomagold ki a ZIP-et.
 3. Nyisd meg a **Terminált** (Cmd + Szóköz, írd be: `Terminál`, Enter).
-4. Írd be: `bash ` (a végén egy szóközzel), húzd be a Terminál ablakába az `alien-isolation/mac` mappában lévő **`Telepites.command`** fájlt, és nyomj Entert.
+4. Írd be: `bash ` (a végén egy szóközzel), húzd be a Terminál ablakába a `mac` mappában lévő **`Telepites.command`** fájlt, és nyomj Entert.
 5. A telepítő magától megkeresi a játékot, a külső lemezen lévő Steam-könyvtárakban is. Ha nem találja, kérni fogja, hogy húzd be a játék mappáját: Steamen jobb klikk a játékon → **Kezelés** → **Helyi fájlok tallózása**.
 6. Indítsd el a játékot.
 
